@@ -1,21 +1,11 @@
-# File Organizer - file1
+# 📂 File Organizer
 
-import os
-import shutil
+Automatically organizes files into folders based on their extensions.
 
-def organize(folder):
-    for filename in os.listdir(folder):
-        name, ext = os.path.splitext(filename)
-        ext = ext[1:]
+Example:
+- .jpg → jpg/
+- .pdf → pdf/
+- .mp3 → mp3/
 
-        if ext:
-            path = os.path.join(folder, ext)
-
-            if not os.path.exists(path):
-                os.makedirs(path)
-
-            shutil.move(os.path.join(folder, filename), os.path.join(path, filename))
-
-folder_path = input("Enter folder path: ")
-organize(folder_path)
-print("Files organized successfully!")
+Run:
+python file1_file_organizer.py
