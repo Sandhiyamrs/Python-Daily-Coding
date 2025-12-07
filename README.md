@@ -46,6 +46,7 @@ Each project includes code, documentation, and real-world usage examples — per
 
 Python-Daily-Coding/
 │
+
 ├── 01_calculator/
 
 ├── 02_file_organizer/
