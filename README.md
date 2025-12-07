@@ -47,34 +47,63 @@ Each project includes code, documentation, and real-world usage examples — per
 Python-Daily-Coding/
 │
 ├── 01_calculator/
+
 ├── 02_file_organizer/
+
 ├── 03_password_generator/
+
 ├── 04_pdf_merger/
+
 ├── 05_web_scraper/
+
 ├── 06_email_notifier/
+
 ├── 07_csv_reader/
+
 ├── 08_image_resizer/
+
 ├── 09_json_formatter/
+
 ├── 10_qr_code_generator/
+
 ├── 11_text_to_speech/
+
 ├── 12_weather_app/
+
 ├── 13_pdf_to_text/
+
 ├── 14_system_monitor/
+
 ├── 15_url_shortener/
+
 ├── 16_file_encryptor/
+
 ├── 17_text_summarizer/
+
 ├── 18_image_to_sketch/
+
 ├── 19_file_checksum_verifier/
+
 ├── 20_invoice_bill_generator/
+
 ├── 21_qr_code_scanner/
+
 ├── 22_youtube_downloader/
+
 ├── 23_pdf_password_remover/
+
 ├── 24_bulk_image_converter/
+
 ├── 25_news_headlines_fetcher/
+
 ├── 26_unit_converter/
+
 ├── 27_random_joke_generator/
+
 ├── 28_text_emoji_replacer/
+
 ├── 29_website_blocker/
+
 └── 30_pdf_splitter/
 
 ---
@@ -103,10 +132,16 @@ python filename.py
 ⭐ Why This Repository Is Helpful
 
 ✔ Perfect for beginners
+
 ✔ Covers basic → advanced Python concepts
+
 ✔ Includes real-world tools
+
 ✔ Improves consistency and coding skills
+
 ✔ Great for portfolio building
+
+---
 
 👩‍💻 Author
 
