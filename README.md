@@ -39,6 +39,16 @@ Each project includes code, documentation, and real-world usage examples — per
 | 28  | Text Emoji Replacer | Replace text with emojis |
 | 29  | Website Blocker | Block distracting websites |
 | 30  | PDF Splitter | Split PDF files |
+| 31	| Log File Analyzer | Analyze system logs
+| 32	| Password Strength Checker	| Rate password security
+| 33	| File Backup Utility |	Backup files safely
+| 34	| Email Spam Detector |	Detect spam emails
+| 35	| Stock Price Tracker |	Track price changes
+| 36	| Basic Chatbot |	Rule-based chatbot
+| 37	| Resume Parser |	Extract resume details
+| 38	| File Search Engine |	Search files recursively
+| 39	| Voice Command Automation |	Control system via voice
+| 40	| Fake Data Generator |	Generate test data
 
 ---
 
@@ -107,8 +117,27 @@ Python-Daily-Coding/
 
 └── 30_pdf_splitter/
 
----
+├── 31_log_file_analyzer/
 
+├── 32_password_strength_checker/
+
+├── 33_file_backup_utility/
+
+├── 34_email_spam_detector/
+
+├── 35_stock_price_tracker/
+
+├── 36_chatbot_basic/
+
+├── 37_resume_parser/
+
+├── 38_file_search_engine/
+
+├── 39_voice_command_automation/
+
+└── 40_fake_data_generator/
+
+---
 
 Each folder contains:
 - a Python file (`file1_xxx.py`)
