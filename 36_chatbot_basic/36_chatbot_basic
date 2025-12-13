@@ -1,0 +1,15 @@
+# 🤖 Basic Rule-Based Chatbot
+
+## 📝 Problem Statement
+Create a simple chatbot that responds to user messages using predefined rules.
+
+## 🎯 Features
+- Greets users
+- Answers basic questions
+- Handles unknown queries gracefully
+
+## 🧪 Sample Input
+User: hello
+
+## 📤 Sample Output
+Bot: Hi! How can I help you today?
