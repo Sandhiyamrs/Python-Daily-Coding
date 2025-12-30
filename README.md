@@ -49,93 +49,19 @@ Each project includes code, documentation, and real-world usage examples — per
 | 38	| File Search Engine |	Search files recursively
 | 39	| Voice Command Automation |	Control system via voice
 | 40	| Fake Data Generator |	Generate test data
-
----
-
-## 📦 Folder Structure
-
-Python-Daily-Coding/
-│
-
-├── 01_calculator/
-
-├── 02_file_organizer/
-
-├── 03_password_generator/
-
-├── 04_pdf_merger/
-
-├── 05_web_scraper/
-
-├── 06_email_notifier/
-
-├── 07_csv_reader/
-
-├── 08_image_resizer/
-
-├── 09_json_formatter/
-
-├── 10_qr_code_generator/
-
-├── 11_text_to_speech/
-
-├── 12_weather_app/
-
-├── 13_pdf_to_text/
-
-├── 14_system_monitor/
-
-├── 15_url_shortener/
-
-├── 16_file_encryptor/
-
-├── 17_text_summarizer/
-
-├── 18_image_to_sketch/
-
-├── 19_file_checksum_verifier/
-
-├── 20_invoice_bill_generator/
-
-├── 21_qr_code_scanner/
-
-├── 22_youtube_downloader/
-
-├── 23_pdf_password_remover/
-
-├── 24_bulk_image_converter/
-
-├── 25_news_headlines_fetcher/
-
-├── 26_unit_converter/
-
-├── 27_random_joke_generator/
-
-├── 28_text_emoji_replacer/
-
-├── 29_website_blocker/
-
-└── 30_pdf_splitter/
-
-├── 31_log_file_analyzer/
-
-├── 32_password_strength_checker/
-
-├── 33_file_backup_utility/
-
-├── 34_email_spam_detector/
-
-├── 35_stock_price_tracker/
-
-├── 36_chatbot_basic/
-
-├── 37_resume_parser/
-
-├── 38_file_search_engine/
-
-├── 39_voice_command_automation/
-
-└── 40_fake_data_generator/
+| 41  | Log File Analyzer  |  Log analysis automation
+| 42  | Password Strength Checker | password security evaluation
+| 43  | File Backup Utility | Automated file backups
+| 44  | Email Spam Detector | Spam email detection
+| 45  | Stock Price Tracker | stock price monitoring
+| 46  | Duplicate File Finder | Duplicate file detection
+| 47  | Markdown to HTML converter | Markdown to HTML
+| 48  | Wifi Pssword Extractor | Wifi credential extraction
+| 49  | ToDo list Manager | Task management system 
+| 50  | Port Scanner | Network port scanning
+| 51  | Image Watermark Tool | Image copyright watermark
+| 52  | Clipboard Manager | clipboard history manager
+| 53  | Currency Converter | Currency exchange conversion
 
 ---
 
