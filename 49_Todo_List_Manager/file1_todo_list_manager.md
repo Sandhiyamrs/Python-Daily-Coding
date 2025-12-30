@@ -11,3 +11,8 @@ A CLI-based todo list manager with file persistence to track your daily tasks.
 - Filter by status or priority
 
 ## Requirements
+json (built-in)
+datetime (built-in)
+
+## Usage
+```python
